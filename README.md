@@ -1,6 +1,6 @@
 # 📊 Customer Retention Dashboard
 
-An interactive Power BI dashboard that analyzes customer churn behavior and identifies the key factors associated with customer retention.
+An interactive Power BI dashboard that analyzes customer churn behavior and identifies the key factors associated with customer churn.
 
 ---
 
