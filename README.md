@@ -77,6 +77,3 @@ Then select **`Churn_Dataset.xlsx`** included in this repository.
 ## 👤 About the Author
 
 **Wenting Luo**
-
----
-⭐ If you found this project helpful, feel free to explore the repository!
