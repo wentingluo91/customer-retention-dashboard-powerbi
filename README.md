@@ -71,3 +71,10 @@ If the PBIX file cannot locate the dataset after download:
 **Transform Data → Data Source Settings → Change Source**
 
 Then select **`Churn_Dataset.xlsx`** included in this repository.
+
+## 👤 About the Author
+
+**Wenting Luo**
+
+---
+⭐ If you found this project helpful, feel free to explore the repository!
